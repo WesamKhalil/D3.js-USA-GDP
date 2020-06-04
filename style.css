@@ -1,0 +1,9 @@
+body {
+  background-color: lightgreen;
+}
+
+.container {
+  background-color: white;
+  display: block;
+  margin:auto;
+}
